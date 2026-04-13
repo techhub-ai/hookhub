@@ -6,7 +6,7 @@ Claude Code hooks are shell commands that fire at key moments in your session �
 
 ## 🖼️ Preview
 
-![hookhub Preview](.playwright-mcp/page-2026-04-13T05-19-26-915Z.png)
+![hookhub Preview](./public/screenshot.png)
 
 ## 🚀 Tech Stack
 
